@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4Cse491</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_add_location">Do you want to add the current location?</string>
+    <string name="positive">Yes</string>
+    <string name="cancel">No</string>
+    <string name="dialog_add_time">Set Time For Timer</string>
+</resources>
